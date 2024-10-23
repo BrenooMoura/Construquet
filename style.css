@@ -8,11 +8,16 @@
   
   body {
     background: url(./assets/sl_030220_28570_03.jpg) no-repeat top center/cover;
+    
   }
   
   body * {
     font-family: "inter", sans-serif;
     color: solid black;
+  }
+
+  .link1 {
+    text-decoration: none;
   }
 
   .tag {
@@ -114,3 +119,4 @@
     text-align: center;
     }
   
+
